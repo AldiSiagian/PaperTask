@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan Invoice</name>
+   <tag></tag>
+   <elementGuidId>4d369911-be3b-4652-bf16-4d62e30f4ed1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#digpayin-step5 > #single-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='single-button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3a25260c-7e55-4ddf-9516-6d79bc5c72f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>single-button</value>
+      <webElementGuid>e4cacad2-95a9-4dac-858b-cf1958dbc87f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ff0d4260-bce8-4267-a855-9639830e4537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>paper-button blue-button ng-tns-c680-30</value>
+      <webElementGuid>f76ecedb-290d-4533-b0b4-8188884b54c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c575e67e-34c5-4bb0-8b00-58ef4a4155e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Simpan Invoice </value>
+      <webElementGuid>d735ae83-fda8-4f05-ab86-61e1cefcddcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;digpayin-step5&quot;)/button[@id=&quot;single-button&quot;]</value>
+      <webElementGuid>f9506f3f-89a6-4cb7-a4a9-3a6eb5a9bf88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='single-button'])[3]</value>
+      <webElementGuid>c94e126c-4c61-4f7d-8df3-197e0609cb51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='digpayin-step5']/button</value>
+      <webElementGuid>1f1c6626-cf5a-44f1-a8fd-ea6f4f4828a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unggah Tanda Tangan'])[1]/following::button[1]</value>
+      <webElementGuid>a430ddd8-5e1a-4873-bfb8-edc2a58ddf4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='?'])[5]/following::button[1]</value>
+      <webElementGuid>aa6a07ae-d501-46a6-890b-cb7274f6f75d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::button[1]</value>
+      <webElementGuid>ccf134ee-2abb-4c3f-9d66-bd3a86ea0b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'digpayin-step5', '&quot;', ')/button[@id=', '&quot;', 'single-button', '&quot;', ']')])[1]/preceding::button[2]</value>
+      <webElementGuid>02cca198-55a3-4e1b-8639-208637d03ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Simpan Invoice']/parent::*</value>
+      <webElementGuid>4df56220-e0b6-4990-9873-ea2eca91c0e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/button</value>
+      <webElementGuid>9da1bd1d-2140-4790-aed4-301fc36048de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'single-button' and @type = 'button' and (text() = ' Simpan Invoice ' or . = ' Simpan Invoice ')]</value>
+      <webElementGuid>274ba3a3-f7a1-45b3-875a-0847d0966d91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

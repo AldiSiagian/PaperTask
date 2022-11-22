@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Penjualan</name>
+   <tag></tag>
+   <elementGuidId>61103989-aadf-45fe-8c1d-775371c3ee08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#aside > perfect-scrollbar.sidebar.sidebar-accordion.ps-container.ps-theme-default.ng-star-inserted > div.ps > div.ps-content > div.scrollbar.ng-star-inserted > ul.parent-dropdown > #sales_purchase_container > li > a.side-bar-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='sales_purchase_container']/li/a)[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>314960d4-313d-49dd-a4b9-b97f6cde184d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>side-bar-title</value>
+      <webElementGuid>0931be94-71c5-451a-b3a5-d042bd38ec22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9adbc073-4019-4b21-a919-8b9537f9b460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penjualan</value>
+      <webElementGuid>7a38cacd-1bad-4ea6-a50a-ec168db992c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aside&quot;)/perfect-scrollbar[@class=&quot;sidebar sidebar-accordion ps-container ps-theme-default ng-star-inserted&quot;]/div[@class=&quot;ps&quot;]/div[@class=&quot;ps-content&quot;]/div[@class=&quot;scrollbar ng-star-inserted&quot;]/ul[@class=&quot;parent-dropdown&quot;]/div[@id=&quot;sales_purchase_container&quot;]/li[1]/a[@class=&quot;side-bar-title&quot;]</value>
+      <webElementGuid>b5ca9499-a566-4564-81f4-1e290f038908</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='sales_purchase_container']/li/a)[3]</value>
+      <webElementGuid>5cc921e9-5bfd-4caf-a379-a3c0640ee8e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitra'])[2]/following::a[1]</value>
+      <webElementGuid>48b4b368-93cf-441d-801b-76c48fbc54b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::a[2]</value>
+      <webElementGuid>30398556-5815-4fee-bfc8-73d26d926b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembelian'])[2]/preceding::a[1]</value>
+      <webElementGuid>0fe2af67-604c-41b6-bda6-5c2ba5ecddaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/perfect-scrollbar/div/div/div/ul/div/li/a</value>
+      <webElementGuid>b94d56c7-57b4-4479-aade-29d01ff1fbb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Penjualan' or . = 'Penjualan')]</value>
+      <webElementGuid>4503d511-7714-4f30-805d-ac18f0d3aee5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
